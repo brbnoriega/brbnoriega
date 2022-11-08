@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📄 Fullstack developer career at [SoyHenry](https://www.soyhenry.com/)
+- 📄 Fullstack developer career at <a href="https://www.soyhenry.com/" target="blank">SoyHenry</a>
 
 - 🌱 I’m currently learning **React Native**
 
