@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💼 Fullstack developer career at **@SoyHenry**
+- 📄 Fullstack developer career at [https://github.com/SoyHenry](https://github.com/SoyHenry)
 
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **barbaranoriega330@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/barbara-noriega/](https://www.linkedin.com/in/barbara-noriega/)
 
 - ⚡ Fun fact **I am funny**
 
