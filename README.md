@@ -8,7 +8,7 @@
 
 - 📄 Fullstack developer career at <a href="https://www.soyhenry.com/" target="_blank">SoyHenry</a>
 
-- 🌱 I’m currently learning **a lot of stuff**
+- 🌱 I’m currently learning a lot of stuff
 
 - 📫 How to reach me **barbaranoriega330@gmail.com**
 
