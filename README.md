@@ -32,6 +32,7 @@
 <br />
 
 <h2>Stats</h2>
+
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=brbnoriega&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brbnoriega&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
