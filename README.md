@@ -30,10 +30,9 @@
 <img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brbnoriega&" alt="brbnoriega" />
 <br />
+
 ### 📊 Stats
 
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=brbnoriega&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brbnoriega&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
