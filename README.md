@@ -34,5 +34,6 @@
 <br />
 ### 📊 Stats
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=brbnoriega&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=brbnoriega&theme=gruvbox&border_radius=4.5) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brbnoriega&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
