@@ -1,4 +1,4 @@
-<h1 align="center">Hey, nice to see you<img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">, I'm Barbara Noriega</h1>
+<h1 align="center">Hey, nice to see you<img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> I'm Barbara</h1>
 
 <img align='right' alt='Coding' width='300' src='https://i.pinimg.com/originals/29/f6/1c/29f61c6393a0cfd3bd1e577789150867.gif'>
 
