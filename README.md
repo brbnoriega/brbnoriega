@@ -1,11 +1,6 @@
-<h1 align="center">Hi <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">, I'm Barbara Noriega</h1>
-<h3 align="center">A developer from Argentina</h3>
+<h1 align="center">Hey, nice to see you<img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">, I'm Barbara Noriega</h1>
 
 <img align='right' alt='Coding' width='300' src='https://i.pinimg.com/originals/29/f6/1c/29f61c6393a0cfd3bd1e577789150867.gif'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brbnoriega&label=Profile%20views&color=0e75b6&style=flat" alt="brbnoriega" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📄 Fullstack developer 
 
