@@ -8,13 +8,11 @@
 - 🔗 My website: https://barbaranoriega-desarrolladora-web.netlify.app/
 - 📫 How to reach me **barbaranoriega330@gmail.com**
 
-  <br>
-
+<br />
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/barbara-noriega/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbara noriega" height="30" width="40" /></a>
 </p>
-
 <h2>Languages and Tools</h2>
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -28,11 +26,3 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
-
-
-
-<h2>Stats</h2>
-
-![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=brbnoriega&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brbnoriega&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
