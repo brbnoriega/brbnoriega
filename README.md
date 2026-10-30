@@ -9,8 +9,8 @@
 
 - 📄 Fullstack developer 
 
-- 🌱 I’m currently learning a lot of stuff
-
+- ⚡ Fun fact: Parlo un po' d'italiano, e allora? 🤌
+- 🔗 My website: https://barbaranoriega-desarrolladora-web.netlify.app/
 - 📫 How to reach me **barbaranoriega330@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
